@@ -1,0 +1,4 @@
+1, Johnny, Cleaner, 800
+2, Bobby, Comedian, 4560
+3, Fred, engineer, 6000
+5, jotaro, Crusader, 890450

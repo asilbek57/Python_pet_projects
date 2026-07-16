@@ -1,0 +1,7 @@
+Word Count Report
+Total Words: 5
+Top 5 Words:
+boat - 2
+is - 1
+a - 1
+wow - 1
