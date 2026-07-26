@@ -1,0 +1,12 @@
+{
+    "1000": {
+        "Account Number": 1000,
+        "Name": "first",
+        "Balance": 100
+    },
+    "1001": {
+        "Account Number": 1001,
+        "Name": "second",
+        "Balance": 500
+    }
+}
